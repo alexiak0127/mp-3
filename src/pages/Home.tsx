@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import headshot from "src/assets/img.jpg";
 
 const Main = styled.main`
 
@@ -88,7 +89,7 @@ export default function Home() {
   return (
     <Main>
       <h2>Welcome</h2>
-      <img src="src/assets/img.jpg" alt="Alexia" />
+      <img src={headshot} alt="Alexia" />
       <p>
         My name is <strong>Alexia Kim</strong>. I'm a senior at Boston University
         double majoring in Computer Science and Business Administration, with a
