@@ -4,14 +4,15 @@ const HeaderWrap = styled.header`
   background-color: #f5cac3;
   padding: 20px;
   text-align: center;
-  margin: 10px;
 
   h1 {
     font-size: calc(2rem + 1vw);
     margin-bottom: 8px;
+    margin-left: 4px;
   }
   p {
     font-size: calc(1rem + 0.3vw);
+    margin-left: 4px;
   }
 
   @media (min-width: 751px) {
