@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import headshot from "./assets/img.jpg";
+import headshot from "../assets/img.jpg";
 
 const Main = styled.main`
 
