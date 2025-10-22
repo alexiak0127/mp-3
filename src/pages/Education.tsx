@@ -5,6 +5,7 @@ const Main = styled.main`
     min-height: 100vh;
     /* width: 70%; */
     padding: 20px;
+    padding-bottom: 64px;
     /* background-color: #ffffff; */
 
 
