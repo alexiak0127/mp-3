@@ -11,6 +11,7 @@ export const GlobalStyle = createGlobalStyle`
         color: #000000;
         background-color: #F7EDE2;
         line-height: 1.5;
+        padding-bottom: 64px;
     }
 
 `;
