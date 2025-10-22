@@ -5,7 +5,6 @@ const Foot = styled.footer`
   background-color: #f5cac3;
   padding: 20px;
   text-align: center;
-  padding-bottom: 64px;
 
   a {
     text-decoration: none;

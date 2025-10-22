@@ -4,6 +4,7 @@ const HeaderWrap = styled.header`
   background-color: #f5cac3;
   padding: 20px;
   text-align: center;
+  margin: 10px;
 
   h1 {
     font-size: calc(2rem + 1vw);
@@ -22,6 +23,7 @@ const HeaderWrap = styled.header`
     text-align: center;
   }
 `;
+
 
 export default function Header() {
   return (
